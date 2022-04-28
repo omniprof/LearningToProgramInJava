@@ -13,7 +13,7 @@ A single line comment in Java begins with the double forward slash (//) and ends
 
 # <pre>/*      */</pre> 
 
-This syntax allows you to enclose multi-line comments. It can also be used to comment out code that you do not wish to compile but are not yet ready to delete. It is usually a good idea to comment out code before you delete it if the original code is better than its replacement. You cannot nest this comment in another. You can nest the single line comment.
+This syntax allows you to enclose multi-line comments. It can also be used to comment out code that you do not wish to compile but are not yet ready to delete. It is usually a good idea to comment out code before you delete it in the case where the original code is better than its replacement. You cannot nest this comment in another. You can nest the single line comment.
 
 /* Comment /* nested comment */ comment */ is not allowed
 
