@@ -1,5 +1,5 @@
 # LearningToProgramInJava
-In this repository are the sample programs from the first video in the Learning To Program In Java. 
+In this repository are the sample programs from the first video in the Learning To Program In Java series. 
 
 # Bonus Segment - Comments
 
